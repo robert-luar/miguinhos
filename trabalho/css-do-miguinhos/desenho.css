@@ -1,0 +1,30 @@
+body{
+    background-image: url(../img/fundo2.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+table{
+    margin-left: 50%;
+    color: black;
+}
+h1,p{
+    color:blue;
+    width: 100%;
+}
+
+.centro{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    border: 1px solid greenyellow;
+    border-radius: 30%;
+    background-color: aqua;
+    text-align: center;
+    margin-left: 48%;
+
+}
+a:hover{
+    background-color: rgb(255, 85, 47);
+
+}
